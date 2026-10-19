@@ -1,4 +1,4 @@
-package org.exercises.switchExpress;
+package org.exercises.switchExpression;
 
 public class Test1 {
 

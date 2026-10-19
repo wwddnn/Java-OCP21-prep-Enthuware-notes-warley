@@ -1,4 +1,4 @@
-package org.exercises.switchExpress;
+package org.exercises.switchExpression;
 
 sealed class Automobile permits Car, Bus {
         public static Automobile getSomething(){ //metodo estatico que retorna um objeto do tipo Car, Bus ou Automobile
