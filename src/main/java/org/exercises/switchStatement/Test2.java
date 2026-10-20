@@ -21,5 +21,5 @@ public class Test2 {
         tc.switchString("B");//com esse objeto criado, é chamado o metodo switchString() que passa o parametro "B".
         // essa String vai para o switch que tem a case "B" e retorna "big bat" e o default "none"
     }
-    
+
 }
