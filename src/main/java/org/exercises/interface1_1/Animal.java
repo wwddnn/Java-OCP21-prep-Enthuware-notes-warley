@@ -1,4 +1,4 @@
-package org.exercises.interface2;
+package org.exercises.interface1_1;
 
 public class Animal implements Movable, Growable {
         //implements interface methods -
