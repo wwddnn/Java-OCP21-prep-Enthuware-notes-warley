@@ -1,4 +1,4 @@
-package org.exercises.overrridingPolimorfism;
+package org.exercises.overrridingPolimorfism_1;
 
 public class TestClass1 {
 
