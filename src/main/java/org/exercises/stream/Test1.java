@@ -8,7 +8,7 @@ public class Test1 {
     static void main() {
         List<Integer> al = Arrays.asList(100, 200, 230, 291, 43);
 
-        System.out.println(al.stream().filter(i -> i < 200).count());
+        System.out.println(al.stream().filter(i -> i <           200).count());
     }
     //questão sobre stream. primeiro criamos um Array com 5 elementos. Depois colocamos ele dentro de uma Lista de Integer.
     //a seguir transformamos essa lista para stream() e usamos o filter() para filtrar os valores que sao menores que 200.
