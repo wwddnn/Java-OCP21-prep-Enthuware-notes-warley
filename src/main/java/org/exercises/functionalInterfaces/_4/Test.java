@@ -14,6 +14,6 @@ public class Test {
 
         System.out.println(methodRef.test("")); //vai retornar true
         System.out.println(lambda.test("nooo")); //vai retornar false
-        
+
     }
 }
