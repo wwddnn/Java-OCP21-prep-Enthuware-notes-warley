@@ -24,6 +24,6 @@ public class Test {
         lambda2.accept("key2", 20);
 
         System.out.println(map);
-        
+
     }
 }
