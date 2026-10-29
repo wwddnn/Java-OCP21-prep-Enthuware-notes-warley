@@ -1,4 +1,4 @@
-package org.exercises.overrridingPolimorfism._3;
+package org.exercises.overridingPolimorphism._3;
 
 import java.util.ArrayList;
 import java.util.List;

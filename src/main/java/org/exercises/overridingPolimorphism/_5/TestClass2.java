@@ -1,4 +1,4 @@
-package org.exercises.overrridingPolimorfism._5;
+package org.exercises.overridingPolimorphism._5;
 
 public class TestClass2 {
     public static void main(String args[]) {

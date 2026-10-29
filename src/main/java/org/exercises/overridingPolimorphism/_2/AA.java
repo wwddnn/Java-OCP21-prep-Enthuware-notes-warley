@@ -1,4 +1,4 @@
-package org.exercises.overrridingPolimorfism._2;
+package org.exercises.overridingPolimorphism._2;
 
 public class AA extends A{
     public void doStuff() {};
