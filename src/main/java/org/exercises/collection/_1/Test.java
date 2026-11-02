@@ -1,4 +1,4 @@
-package org.exercises.collection;
+package org.exercises.collection._1;
 
 import java.util.ArrayList;
 import java.util.Collection;
